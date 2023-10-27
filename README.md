@@ -1,2 +1,4 @@
 # peter-malale.html
-i love programming of repository.
+Hii... my name is Peter
+I'm currently learning HTML, CSS and Javascript.
+Reach me at....
